@@ -2,8 +2,8 @@
 date: 2025-08-15
 author: ff
 categories:
-  - Hello
-  - World
+  - Dummy
+  - Programming
 ---
 
 # Hello World
