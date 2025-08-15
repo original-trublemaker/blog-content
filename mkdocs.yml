@@ -1,1 +1,12 @@
-site_name: My Docs
+site_name: Was man nicht in einem DaF-Kurs gelernt hat
+theme:
+  name: material
+  language: de
+
+plugins:
+  - blog
+
+nav:
+  - Blog:
+      - blog/index.md
+  - index.md
