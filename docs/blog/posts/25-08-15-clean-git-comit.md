@@ -1,11 +1,10 @@
 ---
 date: 2025-08-15
-author: ff
 categories:
   - Git  
 ---
 
-# Cleanup git comit
+# Cleanup git commit
 
 Run
 
