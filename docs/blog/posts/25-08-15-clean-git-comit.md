@@ -1,5 +1,4 @@
 ---
-draft: true
 date: 2025-08-15
 author: ff
 categories:
